@@ -1,4 +1,4 @@
-# Email Sending Application - Java
+# Email Sending Application
 
 ## 📌 Project Overview
 This project is a Spring Boot–based Email Sending Application that allows users to send emails programmatically using Gmail SMTP.
